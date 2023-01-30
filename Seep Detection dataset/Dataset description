@@ -1,1 +1,6 @@
-Dataset
+The data is a set of synthetic aperture radar (SAR) images choosen at various locations.
+The images are 256 x 256 pixels and each pixel is classified as non-seep (0) or 7 classes of seeps (1-7).
+The SAR images and their corresponding masks are saved as .rar files with the same names, 
+but in separate folders, train_images_256.part1/, train_images_256.part2/ and train_masks_256/.
+
+Dataset folder contains a total of 790 images along with its mask image. 
