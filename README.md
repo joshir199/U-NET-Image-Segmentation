@@ -1,5 +1,7 @@
 # U-NET-Image-Segmentation
-Practical use case of U-NET model for Segmentation of Images to detect Oil leakge
+Practical use case of U-NET model for Segmentation of Images to detect Oil leakage or Seep detection.
+This is very famous problem statement in Induatrial and Manufacturing sector where Machine Learning especially 
+Computer Vision concept can be used to detect faults which are very hard to detect by normal human beings.
 
 
 
